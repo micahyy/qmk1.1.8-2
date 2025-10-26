@@ -1,0 +1,67 @@
+{
+   "keyboard_name": "czmao_gushen",
+    "manufacturer": "CZMAO",
+    "url": "NONE",
+    "maintainer": "MAOKB",
+    "diode_direction": "COL2ROW",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "debounce": 5,
+    "usb": {
+      "vid": "0x4A28",
+      "pid": "0x4A28",
+      "device_version": "1.0.0"
+    },
+    "features": {
+      "bootmagic": true,
+      "command": true,
+      "console": true,
+      "extrakey": true,
+      "nkro": true,
+      "mousekey": true,
+      "force_nkro": true
+    },
+
+
+    "matrix_pins": {
+      "cols": ["GP17",  "GP16",   "GP15",   "GP14",  "GP13"],
+      "rows": ["GP9",   "GP8",    "GP27",   "GP18",  "GP19",  "GP20"] 
+    },
+    "layouts": {
+      "LAYOUT_gushen": {
+        "layout": [
+          {"label": "CF1",        "x": 0,     "y": 0,             "matrix": [0, 0]},
+          {"label": "CF2",        "x": 1.5,   "y": 0,             "matrix": [0, 1]},
+          {"label": "CF3",        "x": 2.5,   "y": 0,             "matrix": [0, 2]},
+          {"label": "CF4",        "x": 3.5,   "y": 0,             "matrix": [0, 3]},
+          {"label": "CF5",        "x": 4.5,   "y": 0,             "matrix": [1, 2]},
+
+          {"label": "CF6",        "x": 0,     "y": 1,             "matrix": [1, 0]},
+          {"label": "CF7",        "x": 2,     "y": 1,   "w": 2,   "matrix": [1, 1]},
+          {"label": "CF8",        "x": 4,     "y": 1,   "w": 2,   "matrix": [1, 3]},
+
+          {"label": "CF9",        "x": 0,     "y": 2,             "matrix": [2, 0]},
+          {"label": "CF10",       "x": 1.5,   "y": 2,             "matrix": [2, 1]},
+          {"label": "CF11",       "x": 2.5,   "y": 2,             "matrix": [2, 2]},
+          {"label": "CF12",       "x": 4,     "y": 2,   "w": 2,   "matrix": [2, 3]},
+          
+          {"label": "AF1",        "x": 0,     "y": 3.5,           "matrix": [3, 0]},
+          {"label": "AF2",        "x": 2,     "y": 3.5, "w": 2,   "matrix": [3, 1]},
+          {"label": "AF3",        "x": 4,     "y": 3.5, "w": 2,   "matrix": [3, 3]},
+          
+          {"label": "AF4",        "x": 0,     "y": 4.5,           "matrix": [4, 0]},
+          {"label": "AF5",        "x": 1.5,   "y": 4.5,           "matrix": [4, 1]},
+          {"label": "AF6",        "x": 2.5,   "y": 4.5,           "matrix": [4, 2]},
+          {"label": "AF7",        "x": 4,     "y": 4.5, "w": 2,   "matrix": [4, 3]},
+
+          {"label": "AF8",        "x": 0,     "y": 5.5,           "matrix": [5, 0]},
+          {"label": "AF9",        "x": 1.5,   "y": 5.5,           "matrix": [5, 1]},
+          {"label": "AF10",       "x": 2.5,   "y": 5.5,           "matrix": [5, 2]},
+          {"label": "AF11",       "x": 4,     "y": 5.5, "w": 2,   "matrix": [5, 3]}
+          
+
+        ]
+      }
+    }
+
+  }

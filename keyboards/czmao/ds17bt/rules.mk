@@ -1,0 +1,3 @@
+BLUETOOTH_ENABLE = yes
+BLUETOOTH_DRIVER = custom
+SERIAL_DRIVER = usart  # 启用 UART 支持

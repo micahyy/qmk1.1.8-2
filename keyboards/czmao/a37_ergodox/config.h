@@ -1,0 +1,6 @@
+#define MASTER_LEFT
+#define SERIAL_USART_DRIVER SD3     // USART3
+#define SERIAL_USART_TX_PIN B10
+#define SERIAL_USART_RX_PIN B11
+#define USB_VENDOR_ID 0x7F89        // 自定义 USB ID
+#define USB_PRODUCT_ID 0x4A36
