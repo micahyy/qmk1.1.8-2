@@ -5,6 +5,7 @@
 RGB轴灯，热插拔轴座，Typec接口
 板子尺寸10*10以内，嘉立创可以免费打样
 外壳在售两个版本，DS17R3-1：平底外壳；DS17R4：8°斜面；另外DS17R5未上架销售
+模型地址：https://makerworld.com/zh/models/1926762-cai-zi-mao-ds17ke-zhi-hua-ji-jie-shu-zi-xiao-jian#profileId-2067931
 
 3D print case , taobao link below
 
