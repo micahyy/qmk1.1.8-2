@@ -1,6 +1,11 @@
 # mao ds 17r3 Righthand
 
 
+3D打印外壳，淘宝连接如下
+RGB轴灯，热插拔轴座，Typec接口
+板子尺寸10*10以内，嘉立创可以免费打样
+外壳在售两个版本，DS17R3-1：平底外壳；DS17R4：8°斜面；另外DS17R5未上架销售
+
 3D print case , taobao link below
 
 [link](https://item.taobao.com/item.htm?ft=t&id=848078753675&spm=a21dvs.23580594.0.0.1d292c1bICfvhj&sku_properties=122216346%3A21959%3B122216808%3A10491261%3B211004089%3A34593035581)
