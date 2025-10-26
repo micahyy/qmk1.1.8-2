@@ -3,6 +3,8 @@
 
 3D打印外壳，淘宝连接如下
 
+[淘宝店铺](https://item.taobao.com/item.htm?ft=t&id=986455584475&spm=a21dvs.23580594.0.0.1d292c1bgD3uh5&sku_properties=5919063%3A6536025%3B122216346%3A21959%3B122216808%3A10491261%3B211004089%3A36467121617)
+
 RGB轴灯，热插拔轴座，Typec接口
 
 板子尺寸10*10以内，嘉立创可以免费打样
@@ -13,7 +15,7 @@ RGB轴灯，热插拔轴座，Typec接口
 
 3D print case , taobao link below
 
-[link](https://item.taobao.com/item.htm?ft=t&id=848078753675&spm=a21dvs.23580594.0.0.1d292c1bICfvhj&sku_properties=122216346%3A21959%3B122216808%3A10491261%3B211004089%3A34593035581)
+
 
 
     make czmao/ds17r3l:default
