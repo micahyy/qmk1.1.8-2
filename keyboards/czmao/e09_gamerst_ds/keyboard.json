@@ -38,7 +38,7 @@
           {"label":"F3","matrix": [ 0,3],"x":3,"y":0},
           {"label":"F4","matrix": [ 0,4],"x":4,"y":0},
         
-          {"label":"Mute","matrix": [ 0,6],"x":6,"y":0},
+          {"label":"Mute","matrix": [ 0,5],"x":6,"y":0},
           
           
           
